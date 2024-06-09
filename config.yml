@@ -1,0 +1,9 @@
+locale                   : "en-US"
+title                    : "Dget Downey, MSW"
+title_separator          : "-"
+name                     : &name "Dget Downey"
+description              : &description "Your personal description"
+url                      : https://dgetdowney.github.io/
+baseurl                  : 
+repository               : "dgetdowney.github.io"
+
